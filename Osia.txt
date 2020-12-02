@@ -3,3 +3,4 @@ Jäähdytysjärjestelmä
 Näytönohjain
 Virtalähde
 SSD-levy
+Kotelo
