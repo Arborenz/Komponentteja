@@ -1,0 +1,2 @@
+# Komponentteja
+Koneen komponentit
