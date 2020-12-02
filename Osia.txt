@@ -1,3 +1,4 @@
 Prosessori
 Jäähdytysjärjestelmä
 Näytönohjain
+Virtalähde
