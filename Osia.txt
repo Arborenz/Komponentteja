@@ -2,3 +2,4 @@ Prosessori
 Jäähdytysjärjestelmä
 Näytönohjain
 Virtalähde
+SSD-levy
